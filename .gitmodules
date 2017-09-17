@@ -4,3 +4,6 @@
 [submodule "limited-resource-server"]
 	path = limited-resource-server
 	url = git@github.com:brian65535/limited-resource-server.git
+[submodule "Hyphenate-SDK-Web"]
+	path = Hyphenate-SDK-Web
+	url = git@github.com:yctai/Hyphenate-SDK-Web.git
