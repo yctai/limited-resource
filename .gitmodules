@@ -1,0 +1,6 @@
+[submodule "limited-resource-client"]
+	path = limited-resource-client
+	url = git@github.com:brian65535/limited-resource-client.git
+[submodule "limited-resource-server"]
+	path = limited-resource-server
+	url = git@github.com:brian65535/limited-resource-server.git
